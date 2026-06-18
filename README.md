@@ -62,3 +62,15 @@ python3 /path/to/skill-creator/scripts/quick_validate.py skills/payhere
 python3 -m py_compile skills/payhere/scripts/payhere_crypto.py
 ```
 
+## License
+
+Copyright 2026 Piumal Kulasekara.
+
+This project is licensed under the [Apache License 2.0](LICENSE). See
+[NOTICE](NOTICE) for attribution and project-specific notices.
+
+PayHere is a product and trademark of its respective owner. This project is an
+unofficial agent skill and is not affiliated with, endorsed by, or sponsored by
+PayHere. PayHere documentation links are provided for reference only; PayHere's
+documentation, services, marks, and platform remain governed by PayHere's own
+terms.
