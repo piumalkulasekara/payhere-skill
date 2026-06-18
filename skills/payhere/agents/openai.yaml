@@ -1,0 +1,4 @@
+interface:
+  display_name: "PayHere"
+  short_description: "Build and debug PayHere integrations"
+  default_prompt: "Use $payhere to implement or troubleshoot a PayHere payment integration."
